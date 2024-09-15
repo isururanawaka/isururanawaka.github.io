@@ -1,7 +1,7 @@
 ---
 title: "Accelerating complex modeling workflows in CyberWater using on-demand HPC/Cloud resources"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021-01-01-paper-title-number-4
 excerpt: ''
 date: 2021-01-01

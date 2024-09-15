@@ -1,7 +1,7 @@
 ---
 title: "Airavata Metascheduler: A Reliable, Fault Tolerant, and Resource-Aware Job Scheduling Service"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-01-01-paper-title-number-15
 excerpt: ''
 date: 2023-01-01

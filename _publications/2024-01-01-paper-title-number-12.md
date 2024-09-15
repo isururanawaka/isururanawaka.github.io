@@ -1,7 +1,7 @@
 ---
 title: "Distributed-Memory Parallel Algorithms for Sparse Matrix and Sparse Tall-and-Skinny Matrix Multiplication"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-01-01-paper-title-number-12
 excerpt: ''
 date: 2024-01-01

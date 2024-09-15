@@ -1,7 +1,7 @@
 ---
 title: "Custos Secrets: a Service for Managing User-Provided Resource Credential Secrets for Science Gateways"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-01-01-paper-title-number-9
 excerpt: 'This paper is about Custos Secrets: a Service for Managing User-Provided Resource Credential Secrets for Science Gateways.'
 date: 2022-01-01

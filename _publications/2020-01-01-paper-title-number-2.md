@@ -1,7 +1,7 @@
 ---
 title: "Custos: Security middleware for science gateways"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2020-01-01-paper-title-number-2
 excerpt: ''
 date: 2020-01-01

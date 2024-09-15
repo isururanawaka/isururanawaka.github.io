@@ -1,7 +1,7 @@
 ---
 title: "Distributed Sparse Random Projection Trees for Constructing K-Nearest Neighbor Graphs"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2023-01-01-paper-title-number-8
 excerpt: ''
 date: 2023-01-01

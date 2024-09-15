@@ -1,7 +1,7 @@
 ---
 title: "An Energy Efficient D2D Model with Guaranteed Quality of Service for Cloud Radio Access Networks"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2019-01-01-paper-title-number-6
 excerpt: ''
 date: 2019-01-01

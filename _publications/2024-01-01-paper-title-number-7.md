@@ -1,7 +1,7 @@
 ---
 title: "Scalable Node Embedding Algorithms Using Distributed Sparse Matrix Operations"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2024-01-01-paper-title-number-7
 excerpt: ''
 date: 2024-01-01
