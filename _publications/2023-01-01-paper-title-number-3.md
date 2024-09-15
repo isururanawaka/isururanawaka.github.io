@@ -1,7 +1,7 @@
 ---
 title: "Cybershuttle: An end-to-end cyberinfrastructure continuum to accelerate discovery in science and engineering"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-01-01-paper-title-number-3
 excerpt: ''
 date: 2023-01-01
