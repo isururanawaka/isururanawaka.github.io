@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Isuru Ranawaka"
   pronouns         : # example: "she/her"  
-  bio              : "I'm software engineer and computer science researcher."
+  bio              : "I'm a software engineer and a computer science researcher."
   location         : "Indianapolis, Indiana"
   employer         : "Indiana University"
   uri              : # URL
@@ -36,14 +36,14 @@ author:
   impactstory      : # URL
   orcid            : #
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #URL
   researchgate     : "https://www.researchgate.net/profile/Isuru-Ranawaka"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/isururanawaka"
+  github           : "isururanawaka"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/isururanawaka/"
+  linkedin         : "isururanawaka"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
