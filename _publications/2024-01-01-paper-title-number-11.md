@@ -3,10 +3,10 @@ title: "Asynchronous modeling workflows in CyberWater with on-demand HPC/Cloud a
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-01-paper-title-number-11
-excerpt: 'This paper is about Asynchronous modeling workflows in CyberWater with on-demand HPC/Cloud access.'
+excerpt: ''
 date: 2024-01-01
-venue: 'No Venue'
-slidesurl: 'http://example.com/slides.pdf'
-paperurl: 'http://example.com/paper.pdf'
-citation: 'Isuru Janith Ranawaka, Ranawaka. (2024). &quot;Asynchronous modeling workflows in CyberWater with on-demand HPC/Cloud access.&quot; <i>No Venue</i>.'
+venue: 'Future Generation Computer Systems'
+#slidesurl: 'http://example.com/slides.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167739X24001535'
+citation: 'R. Chen, F. Li, D. Luna, I. Ranawaka, F. Song, S. Pamidighantam, X. Liang, and Y. Liang. "Asynchronous Modeling Workflows in CyberWater with On-Demand HPC/Cloud Access." Future Generation Computer Systems, vol. 159, 2024, pp. 307–322. ISSN 0167-739X. DOI: 10.1016/j.future.2024.04.023.'
 ---

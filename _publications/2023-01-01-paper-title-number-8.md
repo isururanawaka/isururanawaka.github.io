@@ -1,12 +1,12 @@
 ---
 title: "Distributed Sparse Random Projection Trees for Constructing K-Nearest Neighbor Graphs"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2023-01-01-paper-title-number-8
-excerpt: 'This paper is about Distributed Sparse Random Projection Trees for Constructing K-Nearest Neighbor Graphs.'
+excerpt: ''
 date: 2023-01-01
-venue: 'No Venue'
-slidesurl: 'http://example.com/slides.pdf'
-paperurl: 'http://example.com/paper.pdf'
-citation: 'Isuru Janith Ranawaka, Ranawaka. (2023). &quot;Distributed Sparse Random Projection Trees for Constructing K-Nearest Neighbor Graphs.&quot; <i>No Venue</i>.'
+venue: 'IEEE International Parallel and Distributed Processing Symposium (IPDPS)'
+#slidesurl: 'http://example.com/slides.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10177410'
+citation: 'I. Ranawaka, M. K. Rahman, and A. Azad. "Distributed Sparse Random Projection Trees for Constructing K-Nearest Neighbor Graphs." In 2023 IEEE International Parallel and Distributed Processing Symposium (IPDPS), pp. 36–46. St. Petersburg, FL, USA, 2023.'
 ---

@@ -1,12 +1,12 @@
 ---
 title: "An Open Source Managed File Transfer Framework for Science Gateways"
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2020-01-01-paper-title-number-10
-excerpt: 'This paper is about An Open Source Managed File Transfer Framework for Science Gateways.'
+excerpt: ''
 date: 2020-01-01
-venue: 'No Venue'
-slidesurl: 'http://example.com/slides.pdf'
-paperurl: 'http://example.com/paper.pdf'
-citation: 'Isuru Janith Ranawaka, Ranawaka. (2020). &quot;An Open Source Managed File Transfer Framework for Science Gateways.&quot; <i>No Venue</i>.'
+venue: 'Gateways 2020'
+#slidesurl: 'http://example.com/slides.pdf'
+paperurl: 'https://osf.io/qgzbr/download'
+citation: ''
 ---
