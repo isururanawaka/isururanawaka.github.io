@@ -12,8 +12,7 @@ embeddings of large-scale high-dimensional data (10M+ data points) for
 visualization, achieving a 10% improvement in convergence time over
 state-of-the-art algorithms.
 - Developed a distributed memory framework for sparse matrix operations (SpMM,
-SpGEMM, FusedMM) in machine learning kernels, achieving 3x speedup over
-state-of-the-art frameworks.
+SpGEMM, FusedMM) for machine learning kernels.
 - Designed and implemented over 90% of microservices-based, scalable security
 middleware from scratch to cloud production deployment, providing Identity and
 Access Management (IAM) capabilities for external Science Gateways.
