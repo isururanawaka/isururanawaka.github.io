@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "Software Engineer"
+collection: Software Development
+#type: "Undergraduate course"
+#permalink: /teaching/2014-spring-teaching-1
+venue: "WSO2 Lanka (pvt) Ltd"
+date: 2014-04-2017-01
+location: "Colombo, SriLanka"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+-  Improved data transfer latency of the WSO2 ESB transport module by 15% using
+   the Netty framework and disruptor pattern.
+-  Mentored junior engineers, attended overseas customer meetings, and developed
+   and presented solution architectures and proof of concepts using the WSO2 product
+   stack.
