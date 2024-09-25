@@ -3,23 +3,23 @@ title: "Senior Software Engineer : Indiana University"
 collection: Software Development
 type: "Employment"
 #permalink: /teaching/2014-spring-teaching-1
-venue: "WSO2 Lanka (pvt) Ltd"
+#venue: "WSO2 Lanka (pvt) Ltd"
 date: 2019-10-21
-location: "Colombo, SriLanka"
+location: "Indiana, USA"
 ---
 
--  Developed a distributed K-Nearest Neighbor algorithm for large-scale dense data,
+- Developed a distributed K-Nearest Neighbor algorithm for large-scale dense data,
 achieving 20x speedup over state-of-the-art algorithms.
 
--  Implemented a novel distributed memory push-pull scalable graph embedding
+- Implemented a novel distributed memory push-pull scalable graph embedding
 algorithm, achieving 5x speedup over state-of-the-art algorithms.
 
--  Developed a distributed memory scalable algorithm for generating low-dimensional
+- Developed a distributed memory scalable algorithm for generating low-dimensional
 embeddings of large-scale high-dimensional data (10M+ data points) for
 visualization, achieving a 10% improvement in convergence time over
 state-of-the-art algorithms
 
--  Developed a distributed memory framework for sparse matrix operations (SpMM,
+- Developed a distributed memory framework for sparse matrix operations (SpMM,
 SpGEMM, FusedMM) in machine learning kernels, achieving 3x speedup over
 state-of-the-art frameworks.
 
