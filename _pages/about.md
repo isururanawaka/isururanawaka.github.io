@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 I am a software engineer with over seven years of experience in designing and developing large-scale distributed systems. My expertise encompasses backend and frontend development, software security, and cloud-native technologies, with proficiency in Java, C++, Python, and MPI.
+
 Currently, I am pursuing a PhD in Intelligent Systems Engineering at Indiana University, where my research focuses on high-performance computing for graph analytics. Specifically, I am developing distributed memory algorithms for graph analysis and learning.
 ### Programming Skills
    - Java, Python, C++
