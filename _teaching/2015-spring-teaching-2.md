@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
+title: "Software Architect"
+collection: Software Development
 type: "Employment"
 #permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "BlimpIt Inc"
+date: 2017-01-01
+location: "Colombo, SriLanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- Led user requirements gathering, software prototyping, and technical stack
+decisions, including convincing investors and conducting interviews. Developed
+90% of the backend components and successfully managed the engineering team to
+deploy the product in 1.5 years.
+-  Conducted Agile development and Scrum meetings, ensuring efficient project
+management and timely delivery
