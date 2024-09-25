@@ -1,5 +1,5 @@
 ---
-title: "Senior Software Engineer"
+title: "Senior Software Engineer : WSO2 Lanka (pvt) Ltd"
 collection: Software Development
 type: "Employment"
 #permalink: /teaching/2014-spring-teaching-1

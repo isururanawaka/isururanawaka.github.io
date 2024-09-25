@@ -1,5 +1,5 @@
 ---
-title: "Software Architect"
+title: "Software Architect : BlimpIt Inc"
 collection: Software Development
 type: "Employment"
 #permalink: /teaching/2015-spring-teaching-1
