@@ -4,7 +4,7 @@ collection: Software Development
 type: "Employment"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "WSO2 Lanka (pvt) Ltd"
-date: 2014-04-2017-01
+date: 2014-04-01
 location: "Colombo, SriLanka"
 ---
 
