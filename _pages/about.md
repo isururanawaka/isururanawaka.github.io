@@ -28,6 +28,12 @@ I am pursuing a PhD in Intelligent Systems Engineering at Indiana University. My
    - Apache Maven
    - CI/CD pipelines 
 
+
+### Research Experience
+   - Sparse Matrix Computations (SpMM, SpGEMM, FusedMM)
+   - Network Embedding
+   - k-NNG Approximation Algorithms
+
 ### Education
 
    - PhD in Intelligent Systems Engineering (Indiana University/Bloomington, Reading)
