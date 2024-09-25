@@ -14,8 +14,8 @@ main:
   - title: "Work Experience"
     url: /work/
     
-  - title: "Projects"
-    url: /portfolio/
+#  - title: "Projects"
+#    url: /projects/
         
 #  - title: "Projects"
 #    url: /year-archive/
