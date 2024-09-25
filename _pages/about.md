@@ -6,10 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a software engineer with over seven years of experience in designing and developing large-scale distributed systems. My expertise spans backend and frontend development, software security, and cloud-native technologies. My main programming languages are Java, C++, Python, and MPI.
-
-Currently, I am pursuing a PhD in Intelligent Systems Engineering at Indiana University. My research focuses on distributed memory algorithms for graph analysis and learning.
-
+I am a software engineer with over seven years of experience designing and developing large-scale distributed systems. My expertise spans backend and frontend development, software security, and cloud-native technologies. My main programming languages are Java, C++, Python, and MPI.
+I am pursuing a PhD in Intelligent Systems Engineering at Indiana University. My research focuses on distributed memory algorithms for graph analysis and learning.
 ### Programming Skills
    - Java, Python, C++
    - OpenMP, MPI
@@ -21,8 +19,9 @@ Currently, I am pursuing a PhD in Intelligent Systems Engineering at Indiana Uni
 ### Software Development Experience
    - Microservices
    - Identity and Access Management  (Keycloak)
-   - Distributed Messaging (Kafka, RabbitMQ, ActiveMQ)
-   - MySQL, PostgreSQL, Cassandra
+   - Distributed Messaging (Apache Kafka, RabbitMQ, ActiveMQ)
+   - Workflow Execution  (Apache Helix)
+   - MySQL, PostgreSQL, Cassandra, Neo4j
    - REST, gRPC, Thrift
    - Proxies (Nginx, HA Proxy, Envoy)
    - Docker,  Kubernetes
@@ -31,7 +30,7 @@ Currently, I am pursuing a PhD in Intelligent Systems Engineering at Indiana Uni
 
 ### Education
 
-   - PhD in Intelligent Systems Engineering (Indiana University/Bloomington)
+   - PhD in Intelligent Systems Engineering (Indiana University/Bloomington, Reading)
    - Master of Science in Intelligent Systems Engineering (Indiana University/Bloomington)
    - Master of Science in Telecommunication (University of Moratuwa)
    - A Bachelor of Science in Computer Science and Engineering (University of Moratuwa)
