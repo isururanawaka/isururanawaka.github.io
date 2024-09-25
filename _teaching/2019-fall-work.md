@@ -7,13 +7,6 @@ type: "Employment"
 date: 2019-10-21
 location: "Indiana, USA"
 ---
-
-- Developed a distributed K-Nearest Neighbor algorithm for large-scale dense data,
-achieving 20x speedup over state-of-the-art algorithms.
-
-- Implemented a novel distributed memory push-pull scalable graph embedding
-algorithm, achieving 5x speedup over state-of-the-art algorithms.
-
 - Developed a distributed memory scalable algorithm for generating low-dimensional
 embeddings of large-scale high-dimensional data (10M+ data points) for
 visualization, achieving a 10% improvement in convergence time over
