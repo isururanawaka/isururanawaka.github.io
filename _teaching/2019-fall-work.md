@@ -8,30 +8,30 @@ date: 2019-10-21
 location: "Colombo, SriLanka"
 ---
 
-● Developed a distributed K-Nearest Neighbor algorithm for large-scale dense data,
+-  Developed a distributed K-Nearest Neighbor algorithm for large-scale dense data,
 achieving 20x speedup over state-of-the-art algorithms (Scann, Annoy, Faiss..etc.)
 
-● Implemented a novel distributed memory push-pull scalable graph embedding
+-  Implemented a novel distributed memory push-pull scalable graph embedding
 algorithm, achieving 5x speedup over state-of-the-art algorithms.
 
-● Developed a distributed memory scalable algorithm for generating low-dimensional
+-  Developed a distributed memory scalable algorithm for generating low-dimensional
 embeddings of large-scale high-dimensional data (10M+ data points) for
 visualization, achieving a 10% improvement in convergence time over
 state-of-the-art algorithms
 
 
-● Developed a distributed memory framework for sparse matrix operations (SpMM,
+-  Developed a distributed memory framework for sparse matrix operations (SpMM,
 SpGEMM, FusedMM) in machine learning kernels, achieving 3x speedup over
 state-of-the-art frameworks.
 
-● Designed and implemented over 90% of microservices-based, scalable security
+- Designed and implemented over 90% of microservices-based, scalable security
 middleware from scratch to cloud production deployment, providing Identity and
 Access Management (IAM) capabilities for external Science Gateways.
 
-● Designed and implemented a job auto-scheduling service for Apache Airavata
+- Designed and implemented a job auto-scheduling service for Apache Airavata
 using Apache Helix and Apache Kafka, enhancing system efficiency by 20% for
 large-scale job submissions.
 
-● Designed and implemented a scalable and highly available data ingestion pipeline
+- Designed and implemented a scalable and highly available data ingestion pipeline
 and metadata catalog for high-performance data searching for heterogeneous data
 sources
